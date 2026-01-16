@@ -21,6 +21,6 @@ I'm building a **Mech Arena Achievement Tracker** to help players visualize and 
 I own and manage The **Tuxified Hangout** Discord server focused on gaming, friends, and collaborative events.
 
 ## 📫 Connect with Me
-[Discord](https://discord.com/users/1120600587457790025)
-Server: [Tuxified Hangout](https://discord.gg/qmP2RuVNHR)
+[Discord](https://discord.com/users/1120600587457790025) <br>
+[Tuxified Hangout](https://discord.gg/qmP2RuVNHR) Server <br>
 [Reddit](https://www.reddit.com/user/tuxified_gaming)
